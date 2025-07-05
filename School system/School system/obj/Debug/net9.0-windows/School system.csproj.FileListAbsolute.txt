@@ -1,0 +1,33 @@
+F:\Semester 5\database\Projects\School system\School system\bin\Debug\net9.0-windows\School system.exe
+F:\Semester 5\database\Projects\School system\School system\bin\Debug\net9.0-windows\School system.deps.json
+F:\Semester 5\database\Projects\School system\School system\bin\Debug\net9.0-windows\School system.runtimeconfig.json
+F:\Semester 5\database\Projects\School system\School system\bin\Debug\net9.0-windows\School system.dll
+F:\Semester 5\database\Projects\School system\School system\bin\Debug\net9.0-windows\School system.pdb
+F:\Semester 5\database\Projects\School system\School system\obj\Debug\net9.0-windows\School_system.Login_Form.resources
+F:\Semester 5\database\Projects\School system\School system\obj\Debug\net9.0-windows\School system.csproj.GenerateResource.cache
+F:\Semester 5\database\Projects\School system\School system\obj\Debug\net9.0-windows\School system.GeneratedMSBuildEditorConfig.editorconfig
+F:\Semester 5\database\Projects\School system\School system\obj\Debug\net9.0-windows\School system.AssemblyInfoInputs.cache
+F:\Semester 5\database\Projects\School system\School system\obj\Debug\net9.0-windows\School system.AssemblyInfo.cs
+F:\Semester 5\database\Projects\School system\School system\obj\Debug\net9.0-windows\School system.csproj.CoreCompileInputs.cache
+F:\Semester 5\database\Projects\School system\School system\obj\Debug\net9.0-windows\School system.dll
+F:\Semester 5\database\Projects\School system\School system\obj\Debug\net9.0-windows\refint\School system.dll
+F:\Semester 5\database\Projects\School system\School system\obj\Debug\net9.0-windows\School system.pdb
+F:\Semester 5\database\Projects\School system\School system\obj\Debug\net9.0-windows\School system.genruntimeconfig.cache
+F:\Semester 5\database\Projects\School system\School system\obj\Debug\net9.0-windows\ref\School system.dll
+F:\Semester 5\database\Projects\School system\School system\obj\Debug\net9.0-windows\School_system.Properties.Resources.resources
+F:\Semester 5\database\Projects\School system\School system\obj\Debug\net9.0-windows\School_system.MainForm.resources
+F:\Semester 5\database\Projects\School system\School system\obj\Debug\net9.0-windows\School system.csproj.AssemblyReference.cache
+F:\Semester 5\database\Projects\School system\School system\obj\Debug\net9.0-windows\School_system.Attendence.resources
+F:\Semester 5\database\Projects\School system\School system\obj\Debug\net9.0-windows\School_system.dashboard.resources
+F:\Semester 5\database\Projects\School system\School system\obj\Debug\net9.0-windows\School_system.enrollment.resources
+F:\Semester 5\database\Projects\School system\School system\obj\Debug\net9.0-windows\School_system.signUp.resources
+F:\Semester 5\database\Projects\School system\School system\obj\Debug\net9.0-windows\School_system.student.resources
+F:\Semester 5\database\Projects\School system\School system\obj\Debug\net9.0-windows\School_system.subject.resources
+F:\Semester 5\database\Projects\School system\School system\obj\Debug\net9.0-windows\School_system.teacher.resources
+F:\Semester 5\database\Projects\School system\School system\bin\Debug\net9.0-windows\System.Data.SqlClient.dll
+F:\Semester 5\database\Projects\School system\School system\bin\Debug\net9.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Semester 5\database\Projects\School system\School system\bin\Debug\net9.0-windows\runtimes\win-x64\native\sni.dll
+F:\Semester 5\database\Projects\School system\School system\bin\Debug\net9.0-windows\runtimes\win-x86\native\sni.dll
+F:\Semester 5\database\Projects\School system\School system\bin\Debug\net9.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+F:\Semester 5\database\Projects\School system\School system\bin\Debug\net9.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+F:\Semester 5\database\Projects\School system\School system\obj\Debug\net9.0-windows\School s.74BB8DB0.Up2Date
